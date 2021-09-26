@@ -25,6 +25,19 @@ For this Tableau Story Board we are going to explore mainly the effect of COVID-
 * Source Data as CSV were obtained from
     * https://ride.citibikenyc.com/system-data or
     * https://s3.amazonaws.com/tripdata/index.html
+* Selected Data
+    * 2013 data:
+      *  201307-citibike-tripdata.zip
+      *  201312-citibike-tripdata.zip
+   * 2018 data:
+      * 201803-citibike-tripdata.csv.zip
+      * 201809-citibike-tripdata.csv.zip
+      * 201812-citibike-tripdata.csv.zip
+   * 2020 data:
+      *  202003-citibike-tripdata.csv.zip
+      *  202009-citibike-tripdata.csv.zip
+      *  202012-citibike-tripdata.csv.zip
+        
 * Some select months to represent the seasons of the year were selected and the CSV were converted to dataframes. 
 * These dataframes were then concated into one for the analysis
 * Some columns were converted into strings for the sole purpose of the analysis
